@@ -11,4 +11,3 @@ void main()
 	printf("%d",s);
 	return 0;	
 }
-© 2018 GitHub
